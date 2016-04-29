@@ -1,4 +1,4 @@
-# Grid CSS
+# [Grid CSS](http://www.gridlayout.eu/)
 
 **Date:** Friday 13th May
 **Location:** Amsterdam Netherlands
@@ -13,11 +13,3 @@
 ## Other bits
 - http://doodle.com/poll/gkzayu6ccktfswtd#table
 - http://caniuse.com/#feat=css-grid
-
-## Participants
-- [Anneke Sinnema](https://twitter.com/asinnema)
-- [Hidde de Vries](https://twitter.com/hdv)
-- [Thijs Reijgersberg](https://twitter.com/ysbreker)
-- Sander van Lambalg
-- [Tim Luigjes](https://twitter.com/TimLuig)
-- [Tomek Wytrębowicz](https://twitter.com/tomalecpl)
